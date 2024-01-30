@@ -4,4 +4,5 @@ if __name__ == "__main__":
     ch1 = tim2.channel(1, pyb.Timer.PWM, pin=pinPA0)
     ch1.pulse_width_percent(50)
 #     pinPA0.value(0)
-    
+    # brendan comment for git take two
+    #gggggg
